@@ -43,10 +43,13 @@ section{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+    
 }
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
+    height: 45%;
+    overflow: auto;
 }
 .experience-area{
     background-image: url("images/exp-bg.png");
